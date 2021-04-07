@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+      "aws-sdk": "^2.406.0"
+  },
+  "name": "aws-s3-nodejs-sample",
+  "description": "A simple Node.js application illustrating usage of the AWS SDK S3 for Node.js.",
+  "version": "1.0.1",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yao",
+  "license": "ISC"
+}
